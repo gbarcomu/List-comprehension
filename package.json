@@ -1,0 +1,23 @@
+{
+  "name": "list-comprehension",
+  "version": "1.0.0",
+  "description": "Approach of Haskell list comprehension in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbarcomu/List-comprehension.git"
+  },
+  "keywords": [
+    "Haskell",
+    "Functional"
+  ],
+  "author": "Guillermo Barco <gbarcomu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbarcomu/List-comprehension/issues"
+  },
+  "homepage": "https://github.com/gbarcomu/List-comprehension#readme"
+}
